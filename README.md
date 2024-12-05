@@ -1,2 +1,2 @@
 # Fons
-A game engine written in Rust using WGPU.
+A game engine that is coming soon...
